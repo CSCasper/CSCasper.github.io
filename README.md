@@ -4,42 +4,37 @@ My name is Andrew Friend and this is my Learning Portfolio. Here I will demonstr
 
 [![Video, I Chose Columbus State](https://img.youtube.com/vi/PIw9XwFOUYs/0.jpg)](https://www.youtube.com/watch?v=PIw9XwFOUYs)
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+## Goals
+My current goals are as follows:
 
-Alternatively, for H1 and H2, an underline-ish style:
+* Develop a Jekyll theme for our CSCC learning portfolios using Jekyll and Ruby
+* Create a Learning Portfolio template for our students to use
 
-Alt-H1
-======
+## Our Programs
+I would also like to provide an oppertunity to tell you about our IT Certificates:
 
-Alt-H2
-------
+### [Cybersecurity](https://www.cscc.edu/for-business/it-workforce-certificates/cybersecurity-certificate-programs.shtml)
 
+Cybersecurity professionals are the first line of defense in ensuring the confidentiality, integrity, and availability of digital information. Columbus State offers two unique cybersecurity programs:
+
+Cybersecurity: The traditional 31-week Cybersecurity Certificate is designed to provide a broad introduction to the field of cybersecurity. This program expands upon the content covered in the Network Intensive Cybersecurity Certificate with additional coursework in database, Linux, and Python fundamentals.
+
+Network Intensive Cybersecurity Program: Network Intensive Cybersecurity Certificate is an accelerated 8-week program that meets two days per week and is designed to prepare students for the SSCP Certification Exam. This program is recommended for individuals with prior IT experience. 
+### [Data Analytics](https://www.cscc.edu/for-business/it-workforce-certificates/data-analytics-certificates.shtml)
+
+Data analytics professionals combine qualitative and quantitative data and critical thinking techniques to organize and collect data, describe behaviors and processes, prescribe objective decision-making, and predict trends and outcomes.
+
+This 31-week program begins with essentials in computer science, followed by coursework with a specific focus on data analytics in relevant business scenarios. This program equips students with practical, foundation-level skills in data analytics through a hands-on approach.
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+### [Infrastructure Automation](https://www.cscc.edu/for-business/it-workforce-certificates/infrastructure-automation-certificate.shtml)
 
-Combined emphasis with **asterisks and _underscores_**.
+Today’s IT systems management and software development professionals must work to build, manage, and improve the use of cloud technologies.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+This 12-week course is designed for current IT professionals looking to learn how to build and manage cloud technology pipelines and containers. Core concepts covered in the course include Docker, Kubernetes, HELM, and CI/CD.
 
-1. First ordered list item
-2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.
+### [Software Development](https://www.cscc.edu/for-business/it-workforce-certificates/software-development-certificate.shtml)
 
-   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+Today’s businesses count on highly trained software developers who can keep pace with the company's needs.
 
-   To have a line break without a paragraph, you will need to use two trailing spaces.  
-   Note that this line is separate, but within the same paragraph.  
-   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+This 56-week certificate program is designed to help you become a Java developer. Students begin by learning the fundamentals of programming logic and advance to building complex programs with Java and cloud technologies.

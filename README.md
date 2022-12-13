@@ -11,15 +11,15 @@ My current goals are as follows:
 * Create a Learning Portfolio template for our students to use
 
 ## Our Programs
-I would also like to provide an oppertunity to tell you about our IT Certificates:
+I would also like to provide an oppertunity to tell you about our **IT Certificate** programs:
 
 ### [Cybersecurity](https://www.cscc.edu/for-business/it-workforce-certificates/cybersecurity-certificate-programs.shtml)
 
 Cybersecurity professionals are the first line of defense in ensuring the confidentiality, integrity, and availability of digital information. Columbus State offers two unique cybersecurity programs:
 
-Cybersecurity: The traditional 31-week Cybersecurity Certificate is designed to provide a broad introduction to the field of cybersecurity. This program expands upon the content covered in the Network Intensive Cybersecurity Certificate with additional coursework in database, Linux, and Python fundamentals.
+**Cybersecurity:** The traditional 31-week Cybersecurity Certificate is designed to provide a broad introduction to the field of cybersecurity. This program expands upon the content covered in the Network Intensive Cybersecurity Certificate with additional coursework in database, Linux, and Python fundamentals.
 
-Network Intensive Cybersecurity Program: Network Intensive Cybersecurity Certificate is an accelerated 8-week program that meets two days per week and is designed to prepare students for the SSCP Certification Exam. This program is recommended for individuals with prior IT experience. 
+**Network Intensive Cybersecurity Program:** Network Intensive Cybersecurity Certificate is an accelerated 8-week program that meets two days per week and is designed to prepare students for the SSCP Certification Exam. This program is recommended for individuals with prior IT experience. 
 ### [Data Analytics](https://www.cscc.edu/for-business/it-workforce-certificates/data-analytics-certificates.shtml)
 
 Data analytics professionals combine qualitative and quantitative data and critical thinking techniques to organize and collect data, describe behaviors and processes, prescribe objective decision-making, and predict trends and outcomes.

@@ -1,6 +1,8 @@
-Hello World! 
+# Hello World! 
 
-This is my learning portfolio.
+My name is Andrew Friend and this is my Learning Portfolio. Here I will demonstrate the many skills I've learned and projects I've completed in my courses at Columbus State:
+
+[![Video, I Chose Columbus State](https://img.youtube.com/vi/PIw9XwFOUYs/0.jpg)](https://www.youtube.com/watch?v=PIw9XwFOUYs)
 
 # H1
 ## H2

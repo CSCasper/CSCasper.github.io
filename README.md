@@ -25,7 +25,6 @@ Cybersecurity professionals are the first line of defense in ensuring the confid
 Data analytics professionals combine qualitative and quantitative data and critical thinking techniques to organize and collect data, describe behaviors and processes, prescribe objective decision-making, and predict trends and outcomes.
 
 This 31-week program begins with essentials in computer science, followed by coursework with a specific focus on data analytics in relevant business scenarios. This program equips students with practical, foundation-level skills in data analytics through a hands-on approach.
-Emphasis, aka italics, with *asterisks* or _underscores_.
 
 ### [Infrastructure Automation](https://www.cscc.edu/for-business/it-workforce-certificates/infrastructure-automation-certificate.shtml)
 

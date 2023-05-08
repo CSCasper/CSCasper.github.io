@@ -1,7 +1,7 @@
 title: Student Learning Portfolio
 description: Bookmark this to keep an eye on my project updates!
 
-remote_theme: andrewfriend-cscc/moonwalk-cscc 
+remote_theme: ColumbusStateWorkforceInnovation/moonwalk-cscc
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"

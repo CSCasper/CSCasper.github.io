@@ -3,10 +3,10 @@ navbar_entries:
     url: https://www.cscc.edu/
 
   - title: LinkedIn
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/andrew-friend-560440a4/
 
   - title: GitHub
-    url: https://github.com/
+    url: https://github.com/CSCasper
 
 project_entries:
   - title: Teaching Java

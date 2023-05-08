@@ -1,0 +1,18 @@
+navbar_entries:
+  - title: website
+    url: https://www.cscc.edu/
+
+  - title: LinkedIn
+    url: https://www.linkedin.com/
+
+  - title: GitHub
+    url: https://github.com/
+
+project_entries:
+  - title: Template 1
+    url: template-1-post
+    desc: This is an example project, template 1
+
+  - title: Template 2
+    url: template-2-post
+    desc: This is an example project, template 2

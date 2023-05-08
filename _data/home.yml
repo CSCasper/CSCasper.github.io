@@ -9,9 +9,9 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
-    desc: This is an example project, template 1
+  - title: Teaching Java
+    url: teaching-java
+    desc: My experience teaching both Intro to Java and Java II for our WIIT certificates
 
   - title: Template 2
     url: template-2-post

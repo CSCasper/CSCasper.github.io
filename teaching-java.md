@@ -4,6 +4,9 @@ author: Andrew Friend
 tags: [cscc, teaching, java]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIw9XwFOUYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ![Java](Java_Image.jpg)
 
 ## Java II

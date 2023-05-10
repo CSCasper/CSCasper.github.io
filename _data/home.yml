@@ -7,6 +7,9 @@ navbar_entries:
 
   - title: GitHub
     url: https://github.com/CSCasper
+    
+  - title: CSCC YouTube
+    url: https://www.youtube.com/@ColumbusState
 
 project_entries:
   - title: Teaching Java

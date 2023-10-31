@@ -16,7 +16,7 @@ Maecenas vel consectetur dolor, nec vulputate mi. Nunc sagittis lorem justo, sed
 
 #### How Machine Learning differs from other types of AI:
 
-![Types of AI](AdobeStock_206164844.jpg)
+![Types of AI](AdobeStock_206164844.jpeg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu nisi sit amet sem ultrices tempus. Aenean hendrerit sagittis tristique. Cras viverra, nulla id ornare maximus, nisl tortor cursus ipsum, id varius ex libero ac erat. Nullam dignissim semper diam, nec suscipit dui mollis et. In facilisis, nisl accumsan rhoncus euismod, libero dui finibus elit, quis suscipit velit velit sit amet erat. Cras luctus ut mauris gravida fermentum. Donec ac lacus convallis, congue lectus sit amet, luctus erat. Curabitur volutpat magna tellus, at tempor mi dignissim eget. Nulla id tortor porttitor justo rhoncus varius. Maecenas venenatis justo lorem, at consequat turpis semper pellentesque. Nunc id dolor ut dolor finibus lacinia.
 

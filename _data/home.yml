@@ -16,6 +16,18 @@ project_entries:
     url: teaching-java
     desc: My experience teaching both Intro to Java and Java II for our WIIT certificates
 
-  - title: Template 2
-    url: template-2-post
-    desc: This is an example project, template 2
+  - title: AI and Emerging Technologies
+    url: intro-to-ai-week-1
+    desc: Intro to AI Week 1
+    
+  - title: What is Machine Learning?
+    url: intro-to-ai-week-2
+    desc: Intro to AI Week 2
+    
+  - title: Teachable Machine Project
+    url: intro-to-ai-week-3
+    desc: Intro to AI Week 3
+    
+  - title: OpenVINO and Deep Learning
+    url: intro-to-ai-week-4
+    desc: Intro to AI Week 4

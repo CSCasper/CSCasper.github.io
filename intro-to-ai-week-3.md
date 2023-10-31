@@ -4,7 +4,7 @@ author: Student
 tags: [cscc, student, AI, project]
 ---
 
-### Intro to AI Week 1: Machine Learning, Part B
+### Intro to AI Week 3: Machine Learning, Part B
 
 #### Googles Teachable Machine:
 

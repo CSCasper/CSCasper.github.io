@@ -4,7 +4,7 @@ author: Student
 tags: [cscc, student, AI, reflection]
 ---
 
-### Intro to AI Week 1: Machine Learning, Part A
+### Intro to AI Week 2: Machine Learning, Part A
 
 #### What is "Machine Learning?":
 

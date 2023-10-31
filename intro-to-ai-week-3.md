@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu nisi sit amet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aopxzPm-jM?si=PuidezPdh2lYw4fh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Demo: https://www.youtube.com/watch?v=7aopxzPm-jM (Source MLUX meetup)
+**Demo:** https://www.youtube.com/watch?v=7aopxzPm-jM (Source MLUX meetup)
 
 #### Difficulties with creating the model
 

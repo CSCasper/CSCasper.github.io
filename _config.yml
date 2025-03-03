@@ -1,7 +1,7 @@
 title: Student Learning Portfolio
 description: Bookmark this to keep an eye on my project updates!
 
-remote_theme: ColumbusStateWorkforceInnovation/moonwalk-cscc
+remote_theme: pages-themes/leap-day@v0.2.0
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"

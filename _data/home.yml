@@ -11,6 +11,9 @@ navbar_entries:
   - title: CSCC YouTube
     url: https://www.youtube.com/@ColumbusState
 
+  - title: OpenAI
+    url: https://openai.com/
+
 project_entries:
   - title: Teaching Java
     url: teaching-java

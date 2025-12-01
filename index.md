@@ -14,3 +14,5 @@ I graduated from The Ohio State University in 2019 and worked in industry as a s
 My goal is to continue my education as a lifelong learner and encourage others to do so as well. I also enjoy reading and longboarding whenever I get the chance.
 
 Below are some of my accomplishments being both a educator and student participating in our non-credit IT programs.
+
+<iframe id="chartWidget" src="https://neutrinoplatform.com/widget/chart/new?apiKey=e27bcb46c798efc933982d0bfc177b2fc4cd7b37" style="width: 100%; height: 450px;" frameborder="0" onload="(function(){var iframe=document.getElementById('chartWidget');var originalHeight=iframe.offsetHeight;window.addEventListener('message',function(event){if(iframe&&event.data){var newHeight=originalHeight+parseInt(event.data,10);iframe.style.height=newHeight+'px';}},false);})();"></iframe>
